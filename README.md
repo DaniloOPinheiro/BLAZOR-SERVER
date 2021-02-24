@@ -1,5 +1,5 @@
 # Incrível Blazor Server
-[<img src = "https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align = "right" width = "170">] (https://dotnet.microsoft.com / apps / aspnet / web-apps / client)
+(https://dotnet.microsoft.com / apps / aspnet / web-apps / client)
 > Uma coleção de recursos incríveis do Blazor.
 
 Blazor é uma estrutura da web .NET usando C # / Razor e HTML que roda no navegador com WebAssembly.
